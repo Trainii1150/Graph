@@ -1,0 +1,15 @@
+D:\c#\Graph\bin\Debug\net6.0\Graph.exe
+D:\c#\Graph\bin\Debug\net6.0\Graph.deps.json
+D:\c#\Graph\bin\Debug\net6.0\Graph.runtimeconfig.json
+D:\c#\Graph\bin\Debug\net6.0\Graph.dll
+D:\c#\Graph\bin\Debug\net6.0\Graph.pdb
+D:\c#\Graph\obj\Debug\net6.0\Graph.csproj.AssemblyReference.cache
+D:\c#\Graph\obj\Debug\net6.0\Graph.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Graph\obj\Debug\net6.0\Graph.AssemblyInfoInputs.cache
+D:\c#\Graph\obj\Debug\net6.0\Graph.AssemblyInfo.cs
+D:\c#\Graph\obj\Debug\net6.0\Graph.csproj.CoreCompileInputs.cache
+D:\c#\Graph\obj\Debug\net6.0\Graph.dll
+D:\c#\Graph\obj\Debug\net6.0\refint\Graph.dll
+D:\c#\Graph\obj\Debug\net6.0\Graph.pdb
+D:\c#\Graph\obj\Debug\net6.0\Graph.genruntimeconfig.cache
+D:\c#\Graph\obj\Debug\net6.0\ref\Graph.dll
