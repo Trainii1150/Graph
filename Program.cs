@@ -20,7 +20,7 @@ namespace Graph
             g.RemoveNode("B");
 
             g.PrintGraph();
-            Console.ReadLine();
+            //Console.ReadLine();
         }
     }
 
